@@ -8,3 +8,9 @@ dist
 !.yarn/releases
 !.yarn/plugins
 .pnp.*
+
+# alm ide
+.alm
+
+# vscode ide
+.vscode
